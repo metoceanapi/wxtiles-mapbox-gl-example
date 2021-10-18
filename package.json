@@ -1,0 +1,34 @@
+{
+	"name": "@metoceanapi/wxtiles-mapbox-gl-example",
+	"version": "0.0.1",
+	"description": "Example: WxTiles Mapbox-gl lib to render binary data tiles",
+	"main": "",
+	"types": "",
+	"files": [],
+	"scripts": {
+		"start": "node watch-public.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/metoceanapi/wxtiles-mapbox-gl-example.git"
+	},
+	"keywords": [
+		"wxtiles",
+		"mapbox"
+	],
+	"author": "Sergei Melman",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/metoceanapi/wxtiles-mapbox-gl-example/issues"
+	},
+	"homepage": "https://github.com/metoceanapi/wxtiles-mapbox-gl-example#readme",
+	"devDependencies": {
+		"changelogkeeper": "^1.2.0",
+		"esbuild": "^0.12.28",
+		"express": "^4.17.1",
+		"typescript": "^4.4.3"
+	},
+	"dependencies": {
+		"@metoceanapi/wxtiles-mapbox-gl": "^0.0.2"
+	}
+}
