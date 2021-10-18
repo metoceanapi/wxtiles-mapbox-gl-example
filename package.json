@@ -29,6 +29,6 @@
 		"typescript": "^4.4.3"
 	},
 	"dependencies": {
-		"@metoceanapi/wxtiles-mapbox-gl": "^0.0.2"
+		"@metoceanapi/wxtiles-mapbox-gl": "^0.0.3"
 	}
 }
